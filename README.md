@@ -2,6 +2,7 @@
 
 TravelerMatch is a CLI based travel recommendation engine that helps users discover personalized travel destinations based on their preferences. Using NLP the platform takes in user constraints, preferences, and real-time weather data to provide personalized travel destination rankings. 
 
+![Terminal Prompt Preview](assets/TravelerMatch_CLI.png)
 
 ## 🚀 Features
 1. **AI-Powered Recommendations:** Uses Google's Gemini API to generate personalized destination recommendations based on user preferences.
